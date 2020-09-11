@@ -1,0 +1,51 @@
+{
+    "login":
+    {
+      "name":"suvankar", "password":"suvankar@1996"
+    },
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Pizza Hut",
+      "address": "Newtown",
+      "rating": "4.5",
+      "email": "pizzahut@test.com",
+      "images": "./src/components/images/food.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Hatari",
+      "address": "Behala",
+      "rating": "4.5",
+      "email": "hatari@test.com"
+    },
+    {
+      "id": 3,
+      "name": "Peter Cat",
+      "address": "Parkstreet",
+      "rating": "4.5",
+      "email": "petercat@test.com"
+    },
+    {
+      "id": 4,
+      "name": "Audh 1590",
+      "address": "Southern Avenue",
+      "rating": "4.5",
+      "email": "audh@test.com"
+    },
+    {
+      "name": "Fusion Fantasia",
+      "email": "fusion@test.com",
+      "rating": "4.5",
+      "address": "Southern Avenue",
+      "id": 5
+    },
+    {
+      "name": "Small Grill",
+      "email": "sg@test.com",
+      "rating": "4.2",
+      "address": "Jadavpur",
+      "id": 8
+    }
+  ]
+}
